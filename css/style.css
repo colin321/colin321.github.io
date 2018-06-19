@@ -129,6 +129,10 @@ h5 {
  padding-bottom: 40px;
 }
 
+#item6-2, #item7 {
+  text-align: center;
+}
+
 .contact {
   background-color: white;
   padding: 40px;
