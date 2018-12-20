@@ -93,6 +93,10 @@ hr {
   padding: 10px;
 }
 
+.mountain {
+  width: 40%;
+}
+
 .top-cloud {
   position: absolute;
   right: 20%;
