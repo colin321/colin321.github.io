@@ -68,7 +68,7 @@ hr {
 }
 
 .intro {
-  width: 30%;
+  width: 40%;
   margin: auto;
 }
 
@@ -191,15 +191,24 @@ contact-button:after {
   }
 
   h3 {
-    font-size: 2rem;
+    font-size: 1.5rem;
   }
 
   p {
     font-size: 1.3rem;
   }
 
+  .intro {
+    width: 60%;
+  }
+
+  .skill-row {
+    text-align: center;
+  }
+
   .coding,
   .computer {
+    margin: 0;
     float: none;
     width: 60%;
   }
