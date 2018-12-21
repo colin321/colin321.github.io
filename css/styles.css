@@ -51,7 +51,7 @@ hr {
 }
 
 .links i {
-  font-size: 3em;
+  font-size: 4rem;
   margin: 5px;
   padding: 10px;
 }
@@ -99,14 +99,16 @@ hr {
 
 .top-cloud {
   position: absolute;
-  right: 20%;
+  right: 10%;
   top: 50px;
+  width: 15%;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 20%;
+  left: 10%;
   bottom: 300px;
+  width: 15%;
 }
 
 .profile-pic {
@@ -177,4 +179,22 @@ contact-button:after {
 
 .credit {
   font-size: 0.8rem;
+}
+
+@media (max-width: 768px) {
+  h1 {
+    font-size: 4rem;
+  }
+
+  h2 {
+    font-size: 2rem;
+  }
+
+  h3 {
+    font-size: 2rem;
+  }
+
+  p {
+    font-size: 1.3rem;
+  }
 }
