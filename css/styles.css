@@ -197,4 +197,10 @@ contact-button:after {
   p {
     font-size: 1.3rem;
   }
+
+  .coding,
+  .computer {
+    float: none;
+    width: 60%;
+  }
 }
